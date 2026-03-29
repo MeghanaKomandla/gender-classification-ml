@@ -81,6 +81,11 @@ Hyperparameter tuning using GridSearchCV further improved performance.
 
 ---
 
+### 🔹 Confusion Matrix
+
+![Confusion Matrix](report/confusion_matrix.png)
+
+
 ## 🚀 Future Improvements
 
 * Use deep learning for image-based classification
